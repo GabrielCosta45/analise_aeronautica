@@ -1,6 +1,10 @@
 🛠️ EM DESENVOLVIMENTO 🚧
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 A análise sugere que as ações implementadas para elevar os padrões de segurança na aviação — possivelmente envolvendo manutenção, treinamento, tecnologia e protocolos — foram eficazes. Houve redução consistente de acidentes, incidentes e incidentes graves, evidenciando uma melhoria significativa na segurança operacional ao longo dos anos.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 📊 1. Análise Temporal
@@ -50,6 +54,8 @@ Tempo médio entre recomendação e feedback (diferença entre recomendacao_dia_
 Áreas mais citadas como causadoras (fator_area)
 
 Nome e aspecto dos fatores mais comuns (fator_nome, fator_aspecto, fator_condicionante)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🧰 Ferramentas utilizadas:
 pandas para agrupar e filtrar dados
