@@ -51,7 +51,7 @@ Tempo médio entre recomendação e feedback (diferença entre recomendacao_dia_
 
 Nome e aspecto dos fatores mais comuns (fator_nome, fator_aspecto, fator_condicionante)
 
-🧰 Ferramentas que você pode usar:
+🧰 Ferramentas utilizadas:
 pandas para agrupar e filtrar dados
 
 matplotlib / seaborn / plotly para gráficos de linha, barras, pizza e mapa
