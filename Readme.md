@@ -1,3 +1,5 @@
+🛠️ EM DESENVOLVIMENTO 🚧
+
 A análise sugere que as ações implementadas para elevar os padrões de segurança na aviação — possivelmente envolvendo manutenção, treinamento, tecnologia e protocolos — foram eficazes. Houve redução consistente de acidentes, incidentes e incidentes graves, evidenciando uma melhoria significativa na segurança operacional ao longo dos anos.
 
 
